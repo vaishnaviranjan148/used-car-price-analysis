@@ -7,7 +7,8 @@ The project covers brand performance, price influencers, ownership impact, milea
 
 Key findings show that Maruti Suzuki and Hyundai dominate the market due to affordability and strong resale value. First-owner, petrol, manual cars form the core demand segment, while higher mileage and multiple ownership significantly reduce resale value.
 
-[Click to view Live Dashboard](https://app.powerbi.com/reportEmbed?reportId=013815bf-e77c-4292-90e3-490e0d9fd33a&autoAuth=true&ctid=3ffff7b6-7ef4-4fa4-8fea-798ab0455714)
+[Click to view Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGJjNjU3OWItN2YzOC00MmQ5LWE5NzktZWRmNWJkZDM1MzI2IiwidCI6IjNmZmZmN2I2LTdlZjQtNGZhNC04ZmVhLTc5OGFiMDQ1NTcxNCJ9)
+
 
 ## Table of Content
 
